@@ -48,7 +48,7 @@
     <div class="one">
     <form id="form1" runat="server">
         <div>
-            <h1 style="text-align:center; color:darkred;"><strong>Registration Form (Emter Details)</strong> </h1>
+            <h1 style="text-align:center; color:darkred;"><strong>Registration Form (Enter Details)</strong> </h1>
             <b><strong>
             <br />
             Enter Name:&nbsp;</strong></b>
