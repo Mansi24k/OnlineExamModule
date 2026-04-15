@@ -19,7 +19,7 @@ namespace OnlineExamModule
         {
             
         }
-
+        //new changes mitali
         protected void Button2_Click(object sender, EventArgs e)
         {
             //to upload the image or say photo
