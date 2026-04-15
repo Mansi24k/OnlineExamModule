@@ -51,5 +51,12 @@ namespace OnlineExamModule
         //typesetting industry.Lorem Ipsum has been the industry's standard dummy
         //text ever since the 1500s, when an unknown printer took a galley of type and scrambled
         //it to make a type specimen book.
+
+        //abc def ghi jkl mno pqrs tuv wxyz
+        //    ABC DEF GHI JKL MNO PQRS TUV WXYZ 
+        //    !"§ $%& /() =?* '<> #|; ²³~ @`
+        //    ´ ©«» ¤¼× {}abc def ghi jkl mno pqrs tuv wxyz ABC
+
+        //himanshu changes 
     }
 }
