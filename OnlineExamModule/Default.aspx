@@ -91,6 +91,7 @@
             <br />
         </div>
     </form>
+        <footer>© Copyright 2025 , Powered by OnlineExam</footer>
         </div>
 </body>
 </html>
