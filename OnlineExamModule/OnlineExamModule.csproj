@@ -71,6 +71,7 @@
     <Content Include="Exam.aspx" />
     <Content Include="format.aspx" />
     <Content Include="Home.aspx" />
+    <Content Include="info.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Testscreen.aspx" />
     <Content Include="Web.config" />
@@ -104,6 +105,13 @@
     </Compile>
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="info.aspx.cs">
+      <DependentUpon>info.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="info.aspx.designer.cs">
+      <DependentUpon>info.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
